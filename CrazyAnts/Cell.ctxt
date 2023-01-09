@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Cell
+comment1.params=cellSize
+comment1.target=Cell(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ saveLastState()
+comment4.params=state
+comment4.target=void\ setState(boolean)
+comment5.params=
+comment5.target=boolean\ getState()
+comment6.params=
+comment6.target=void\ flipState()
+comment7.params=
+comment7.target=int\ countNeighbors()
+comment8.params=numNeighborsOn
+comment8.target=boolean\ applyRule(int)
+comment9.params=
+comment9.target=void\ showState()
+numComments=10

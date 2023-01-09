@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Field
+comment1.params=
+comment1.target=Field()
+comment2.params=numAnts
+comment2.target=void\ placeAnts(int)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ drawGrid()
+comment5.params=
+comment5.target=void\ createCells()
+numComments=6
